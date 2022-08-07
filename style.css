@@ -48,8 +48,6 @@ body {
 
 /*Header Part 1 End*/
 
-
-
 /*Header Part 2 start*/
 
 .headerbottom {
@@ -873,34 +871,3 @@ body {
     text-decoration: none;
 }
 /*Footer end*/
-
-/*reponeve mobile*/
-
-@media (max-width: 767px){
-    .headertop{
-        display: block;
-        justify-content: center;
-    }
-
-    .btnhead{
-        display: none;
-    }
-
-    .nav{
-        display: none;
-    }
-
-
-
-
-
-
-
-/*TAB*/
-.tab ul {
-
-display: none;
-}
-
-
-}
